@@ -35,7 +35,7 @@ namespace ContosoPets.Api.Controllers
             return product;
         }
 
-        [HttpPost("{id}")]
+        [HttpPost]
         public async Task<ActionResult<Product>> Create(Product product)
         {
             _context.Products.Add(product);
