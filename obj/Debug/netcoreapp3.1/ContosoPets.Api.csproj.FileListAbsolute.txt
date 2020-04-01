@@ -38,3 +38,9 @@
 /home/katie/Projects/c-sharp-learning/contoso-pets/src/ContosoPets.Api/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
 /home/katie/Projects/c-sharp-learning/contoso-pets/src/ContosoPets.Api/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
 /home/katie/Projects/c-sharp-learning/contoso-pets/src/ContosoPets.Api/obj/Debug/netcoreapp3.1/ContosoPets.Api.csproj.CopyComplete
+/home/katie/Projects/c-sharp-learning/contoso-pets/src/ContosoPets.Api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/home/katie/Projects/c-sharp-learning/contoso-pets/src/ContosoPets.Api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.Design.dll
+/home/katie/Projects/c-sharp-learning/contoso-pets/src/ContosoPets.Api/bin/Debug/netcoreapp3.1/Npgsql.dll
+/home/katie/Projects/c-sharp-learning/contoso-pets/src/ContosoPets.Api/bin/Debug/netcoreapp3.1/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/katie/Projects/c-sharp-learning/contoso-pets/src/ContosoPets.Api/bin/Debug/netcoreapp3.1/Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+/home/katie/Projects/c-sharp-learning/contoso-pets/src/ContosoPets.Api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll

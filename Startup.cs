@@ -29,7 +29,11 @@ namespace ContosoPets.Api
         {
             // Registers our custom DbContext class with ASP.NET Core's dependency injection system
             // Defines an in-memory database named ContosoPets
-            services.AddDbContext<ContosoPetsContext>(options => options.UseInMemoryDatabase("ContosoPets"));
+            // services.AddDbContext<ContosoPetsContext>(options => options.UseInMemoryDatabase("ContosoPets"));
+
+            services.AddDbContext<ContosoPetsContext>(options =>
+                options.UseNpgsql(Configuration.GetConnectionString("DefaultConnection")));
+
 
             services.AddControllers();
         }
