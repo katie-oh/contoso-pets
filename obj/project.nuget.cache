@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Ajb7VLE66lBzjLgDXDxea2pTgTvdYpDei5No1ApyGpa70fWuoL1xn+0h1lk9I7D3EwZyYfFJq0AbBFiAIJS4Vw==",
+  "dgSpecHash": "KcCct5eTXrGaJsRBGILifgaPtDsyGvpkL+WrHhqDk7HwG1vLx6KZ1pf4veoF2Nf8tObhtwEf7xDdHJqIZhxzLA==",
   "success": true,
   "projectFilePath": "/home/katie/Projects/c-sharp-learning/contoso-pets/src/ContosoPets.Api/ContosoPets.Api.csproj",
   "expectedPackageFiles": [
