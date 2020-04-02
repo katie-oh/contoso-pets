@@ -44,3 +44,8 @@
 /home/katie/Projects/c-sharp-learning/contoso-pets/src/ContosoPets.Api/bin/Debug/netcoreapp3.1/Npgsql.EntityFrameworkCore.PostgreSQL.dll
 /home/katie/Projects/c-sharp-learning/contoso-pets/src/ContosoPets.Api/bin/Debug/netcoreapp3.1/Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
 /home/katie/Projects/c-sharp-learning/contoso-pets/src/ContosoPets.Api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/home/katie/Projects/c-sharp-learning/contoso-pets/src/ContosoPets.Api/bin/Debug/netcoreapp3.1/publish/web.config
+/home/katie/Projects/c-sharp-learning/contoso-pets/src/ContosoPets.Api/bin/Debug/netcoreapp3.1/publish/appsettings.Development.json
+/home/katie/Projects/c-sharp-learning/contoso-pets/src/ContosoPets.Api/bin/Debug/netcoreapp3.1/publish/appsettings.json
+/home/katie/Projects/c-sharp-learning/contoso-pets/src/ContosoPets.Api/bin/Debug/netcoreapp3.1/publish/ContosoPets.Api.deps.json
+/home/katie/Projects/c-sharp-learning/contoso-pets/src/ContosoPets.Api/bin/Debug/netcoreapp3.1/publish/ContosoPets.Api.runtimeconfig.json

@@ -1,0 +1,26 @@
+version: '3'
+services:
+  ContosoPetsDB:
+    image: my-postgres
+    environment:
+      POSTGRES_PASSWORD: "postgres1"
+      POSTGRES_USER: "postgres"
+      POSTGRES_DB: "ContosoPetsDB"
+    restart: always
+    ports:
+      - "5432"
+    networks:
+      - contoso-pets
+  api:
+    image: katieoh/contoso-api-test
+    depends_on:
+      - ContosoPetsDB
+    networks:
+      - contoso-pets
+    ports:
+      - "8080:5001"
+    links:
+      - "ContosoPetsDB:ContosoPetsDB"
+networks:
+  contoso-pets:
+    driver: bridge
