@@ -5381,11 +5381,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/katie/Projects/c-sharp-learning/contoso-pets/src/ContosoPets.Api/ContosoPets.Api.csproj",
+      "projectUniqueName": "/home/katie/Projects/c-sharp-learning/contoso-pets-api-sql/ContosoPets.Api.csproj",
       "projectName": "ContosoPets.Api",
-      "projectPath": "/home/katie/Projects/c-sharp-learning/contoso-pets/src/ContosoPets.Api/ContosoPets.Api.csproj",
+      "projectPath": "/home/katie/Projects/c-sharp-learning/contoso-pets-api-sql/ContosoPets.Api.csproj",
       "packagesPath": "/home/katie/.nuget/packages/",
-      "outputPath": "/home/katie/Projects/c-sharp-learning/contoso-pets/src/ContosoPets.Api/obj/",
+      "outputPath": "/home/katie/Projects/c-sharp-learning/contoso-pets-api-sql/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/katie/.nuget/NuGet/NuGet.Config"

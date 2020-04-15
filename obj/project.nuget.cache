@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2rpwJ+kXZzinqBC+U0kVJ/QgRZF0lWlcAP9YP4IIHTVoS3TOEvBuKglaUOl4geALCoSoeRJgpubSbZyhQImEaw==",
+  "dgSpecHash": "ZSWdf7kVQ6bKgdY2igPqNSiYD+tTOfxMJFkDHzJR5uU3T13tx6KuawQJ3/eLsphHmhkWySDwPp1AmRlNOSrXDg==",
   "success": true,
-  "projectFilePath": "/home/katie/Projects/c-sharp-learning/contoso-pets/src/ContosoPets.Api/ContosoPets.Api.csproj",
+  "projectFilePath": "/home/katie/Projects/c-sharp-learning/contoso-pets-api-sql/ContosoPets.Api.csproj",
   "expectedPackageFiles": [
     "/home/katie/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.0/microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "/home/katie/.nuget/packages/microsoft.bcl.hashcode/1.1.0/microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
