@@ -20,8 +20,7 @@ namespace ContosoPets.Api
                 .ConfigureWebHostDefaults(webBuilder => 
                 {
                     webBuilder
-                        .UseStartup<Startup>()
-                        .UseUrls("http://0.0.0.0:5001");
+                        .UseStartup<Startup>();
                 });
     }
 }
